@@ -1,2 +1,12 @@
-# SeleniumGridGUIWindows2008
-Selenium Grid setup using Visgrid Selenium Grid GUI by codoid. This just makes it easy for me to download. Also includes the prebuilt binaries for all webdriver types, that work in windows, with Visgrid. Visgrid was made by codoid.com
+Selenium Grid Setup for Windows Servers
+-----------------------------------------
+trying to make a standalone selenium grid distro that works even better 
+than what I have put together before. Fuck visgrid and its GUI i could make
+a better one blind folded. It doesnt take into account idle timeout and 
+it eventually auto closes browsers. 
+
+SO i downloaded the raw selenium server and setup my own config.json file.
+
+should be ready to run with the start.bat.
+
+ - Ray Hernandez

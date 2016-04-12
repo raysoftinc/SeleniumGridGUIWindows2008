@@ -1,0 +1,26 @@
+{
+	"capabilities":
+	[
+		{
+			"browserName":"firefox",
+			"version":"3.6",
+			"platform":"WINDOWS",
+			"maxInstances":10000,
+			"sessionMaxIdleTimeInSeconds":0,
+		}
+	],
+	"configuration":
+		{
+			"nodeTimeout":120,
+			"port":5555,
+			"hubPort":4444,
+			"hubHost":"172.31.16.223",
+			"sessionMaxIdleTimeInSeconds":0,
+			"nodePolling":5000,
+			"registerCycle":10000,
+			"register":true,
+			"cleanUpCycle":5000,
+			"timeout":60000,
+			"maxSession":10000,
+		}
+}
